@@ -1,0 +1,20 @@
+# ! 不上传到github的文件
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# model
+*.tar
+
+
+# 爬虫生成的txt和json 直接把文件夹禁了不行吗?
+*.txt
